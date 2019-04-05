@@ -13,7 +13,18 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#line 1 "C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\Views\_ViewImports.cshtml"
+using PluralSightMVC_App.Models;
+
+#line default
+#line hidden
+#line 2 "C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\Views\_ViewImports.cshtml"
+using PluralSightMVC_App.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"4f5c1ddd19fc8ca0a1b23ca8e247b829191c4354", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

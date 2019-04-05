@@ -5,7 +5,6 @@ C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\bin\Debug\net
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\bin\Debug\netcoreapp2.2\PluralSightMVC_App.pdb
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\bin\Debug\netcoreapp2.2\PluralSightMVC_App.Views.dll
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\bin\Debug\netcoreapp2.2\PluralSightMVC_App.Views.pdb
-C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.csprojAssemblyReference.cache
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.csproj.CoreCompileInputs.cache
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.RazorAssemblyInfo.cache
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.RazorAssemblyInfo.cs
@@ -23,3 +22,6 @@ C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\net
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.csproj.CopyComplete
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\PluralSightMVC_App.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Details.g.cshtml.cs
+C:\Users\LENOVO\source\repos\PluralSightMVC_App\PluralSightMVC_App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
